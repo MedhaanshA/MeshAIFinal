@@ -53,7 +53,7 @@ Once started, your interface will be active on http://localhost:3000.
 ### 3. Backend Environment Setup
 Open a separate terminal window, navigate to the project root directory, and set up your Python microservices:
 
-Install the backend libraries:
+Install the backend libraries: 
 ```bash
 pip install -r requirements.txt
 ```
